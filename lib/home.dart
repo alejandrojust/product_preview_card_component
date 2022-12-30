@@ -33,7 +33,7 @@ class Home extends StatelessWidget {
                 const ClipRRect(
                   borderRadius: BorderRadius.vertical(top: Radius.circular(10)),
                   child: Image(
-                    image: AssetImage('images/image-product-mobile.jpg'),
+                    image: AssetImage('assets/images/image-product-mobile.jpg'),
                     fit: BoxFit.cover,
                   ),
                 ),
